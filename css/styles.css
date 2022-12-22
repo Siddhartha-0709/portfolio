@@ -70,41 +70,12 @@ p {
   background-color: #FF2E63;
 }
 .skill-elements{
-  margin-left: auto;
-  margin-right: auto;
+  position: relative;
+  left: 600px;
   color: bisque;
   text-align: center;
 }
 .contact-me{
   background-color: #EAEAEA;
   
-}
-.profile-text{
-  font-size: 20px;
-}
-.btn {
-  background: #000000;
-  background-image: -webkit-linear-gradient(top, #000000, #1d75ab);
-  background-image: -moz-linear-gradient(top, #000000, #1d75ab);
-  background-image: -ms-linear-gradient(top, #000000, #1d75ab);
-  background-image: -o-linear-gradient(top, #000000, #1d75ab);
-  background-image: linear-gradient(to bottom, #000000, #1d75ab);
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #3cb0fd;
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
-  text-decoration: none;
 }
